@@ -1,0 +1,8 @@
+[config]
+version = 1
+name = "Credit Card Default Prediction"
+description = "A comprehensive interactive dashboard for predicting credit card default risk"
+python_version = "3.9"
+
+[deployment]
+requirements_path = "requirements.txt"

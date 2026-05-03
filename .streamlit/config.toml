@@ -1,0 +1,11 @@
+[client]
+showErrorDetails = true
+logger.level = "info"
+
+[runner]
+magicEnabled = true
+
+[server]
+port = 8501
+headless = true
+runOnSave = true
